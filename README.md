@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @ReyesTony and I'm a full stack developer with experience in JavaScript, React.js, Node.js, Express,
-- and PostGreSQL
+- 👋 Hi, I’m @ReyesTony and I'm a full stack developer with experience in JavaScript, React.js, Node.js, Express and PostGreSQL
